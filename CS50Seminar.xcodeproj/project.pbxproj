@@ -17,6 +17,7 @@
 		9381D3512B3E1D1C00ED196D /* CS50SeminarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9381D3502B3E1D1C00ED196D /* CS50SeminarTests.swift */; };
 		9381D35B2B3E1D1C00ED196D /* CS50SeminarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9381D35A2B3E1D1C00ED196D /* CS50SeminarUITests.swift */; };
 		9381D35D2B3E1D1C00ED196D /* CS50SeminarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9381D35C2B3E1D1C00ED196D /* CS50SeminarUITestsLaunchTests.swift */; };
+		9381D36A2B3E480E00ED196D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9381D3692B3E480D00ED196D /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9381D3562B3E1D1C00ED196D /* CS50SeminarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CS50SeminarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9381D35A2B3E1D1C00ED196D /* CS50SeminarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CS50SeminarUITests.swift; sourceTree = "<group>"; };
 		9381D35C2B3E1D1C00ED196D /* CS50SeminarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CS50SeminarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9381D3692B3E480D00ED196D /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				9381D3382B3E1D1800ED196D /* SceneDelegate.swift */,
 				9381D33A2B3E1D1800ED196D /* ViewController.swift */,
 				9381D33C2B3E1D1800ED196D /* Main.storyboard */,
+				9381D3692B3E480D00ED196D /* SecondViewController.swift */,
 				9381D3422B3E1D1B00ED196D /* Assets.xcassets */,
 				9381D3442B3E1D1B00ED196D /* LaunchScreen.storyboard */,
 				9381D3472B3E1D1B00ED196D /* Info.plist */,
@@ -264,6 +267,7 @@
 				9381D33B2B3E1D1800ED196D /* ViewController.swift in Sources */,
 				9381D3372B3E1D1800ED196D /* AppDelegate.swift in Sources */,
 				9381D3412B3E1D1800ED196D /* CS50Seminar.xcdatamodeld in Sources */,
+				9381D36A2B3E480E00ED196D /* SecondViewController.swift in Sources */,
 				9381D3392B3E1D1800ED196D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
